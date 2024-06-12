@@ -1,6 +1,6 @@
 # Fruit Ninja Game
 
-![Fruit Ninja](Screens/Loading Screen.png)
+
 
 ## Overview
 The Fruit Ninja Game is a recreation of the popular mobile game where players slice fruits appearing on the screen. This project is implemented in Python, using the Pygame library for graphics and interaction.
